@@ -1,0 +1,17 @@
+Car Avoidance Game 🚗💨
+A simple arcade-style survival game built in Scratch where the player must dodge incoming cars for as long as possible.
+🎮 Gameplay
+You control a character that moves left and right to avoid cars.
+Each second you survive increases your score.
+If you get hit, the game ends.
+🧠 What I Learned
+• Basic game logic (loops, conditions)
+• Collision detection
+• Score tracking
+• Event-based programming
+🛠 Built With
+• Scratch (CS50 Week 0)
+▶️ How to Play
+• Open the .sb3 file using Scratch
+• Click the green flag to start
+• Avoid the cars and survive as long as possible
